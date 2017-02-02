@@ -2,9 +2,9 @@
 # Cookbook Name:: azure_fqdn_fix
 # Recipe:: default
 #
-# Copyright 2017, YOUR_COMPANY_NAME
+# Copyright 2017, PERFECTCUBE
 #
-# All rights reserved - Do Not Redistribute
+# MIT LICENSE
 #
 
 template '/etc/hosts' do 
